@@ -1,17 +1,5 @@
-# flutter_assignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutter_textchange
+have 2 version
+v.1 is a version that save a text in the list and then use text index to change text
+v.2 is a version that just change a text by click a button an set state on it
+
