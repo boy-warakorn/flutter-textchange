@@ -1,4 +1,4 @@
-# flutter_textchange<hr>
+# flutter_textchange
 # choose branch to select a version
 have 2 version<br>
 v.1 is a version that save a text in the list and then use text index to change text<br>
